@@ -34,6 +34,7 @@ Here are some of the highlights from my repositories:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magiccane204&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 ---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Core
