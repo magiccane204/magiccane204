@@ -25,3 +25,11 @@ Here are some of the highlights from my repositories:
 * **Core Philosophy:** *If it compiles, it ships. If it doesn't, add more console logs.*
 
 ---
+---
+
+## 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Magiccane204&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magiccane204&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
